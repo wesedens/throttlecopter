@@ -1,0 +1,293 @@
+++font-text-file
+++chars
+22
+++width
+8
+++height
+12
+++---000-0x00-'S'-
+        
+ XXXXX  
+XX   XX 
+XX      
+ XX     
+  XXX   
+    XX  
+     XX 
+XX   XX 
+ XXXXX  
+        
+        
+++---001-0x01-'C'-
+        
+  XXXX  
+ XX  XX 
+XX      
+XX      
+XX      
+XX      
+XX      
+ XX  XX 
+  XXXX  
+        
+        
+++---002-0x02-'O'-
+        
+ XXXXX  
+XX   XX 
+XX   XX 
+XX   XX 
+XX   XX 
+XX   XX 
+XX   XX 
+XX   XX 
+ XXXXX  
+        
+        
+++---003-0x03-'R'-
+        
+XXXXXX  
+ XX  XX 
+ XX  XX 
+ XX  XX 
+ XXXXX  
+ XXXX   
+ XX XX  
+ XX  XX 
+XXX  XX 
+        
+        
+++---004-0x04-'E'-
+        
+XXXXXXX 
+ XX  XX 
+ XX     
+ XX     
+ XXXXX  
+ XX     
+ XX     
+ XX  XX 
+XXXXXXX 
+        
+        
+++---005-0x05-':'-
+        
+        
+        
+    XX  
+    XX  
+        
+        
+    XX  
+    XX  
+        
+        
+        
+++---006-0x06-'0'-
+        
+ XXXXX  
+XX   XX 
+XX   XX 
+XX   XX 
+XX X XX 
+XX   XX 
+XX   XX 
+XX   XX 
+ XXXXX  
+        
+        
+++---007-0x07-'1'-
+        
+   XX   
+ XXXX   
+   XX   
+   XX   
+   XX   
+   XX   
+   XX   
+   XX   
+ XXXXXX 
+        
+        
+++---008-0x08-'2'-
+        
+ XXXXX  
+XX   XX 
+XX   XX 
+    XX  
+   XX   
+  XX    
+ XX     
+XX   XX 
+XXXXXXX 
+        
+        
+++---009-0x09-'3'-
+        
+ XXXXX  
+XX   XX 
+     XX 
+     XX 
+  XXXX  
+     XX 
+     XX 
+XX   XX 
+ XXXXX  
+        
+        
+++---010-0x0a-'4'-
+        
+    XX  
+   XXX  
+  XXXX  
+ XX XX  
+XX  XX  
+XXXXXXX 
+    XX  
+    XX  
+    XX  
+        
+        
+++---011-0x0b-'5'-
+        
+XXXXXXX 
+XX      
+XX      
+XX      
+XXXXXX  
+     XX 
+     XX 
+XX   XX 
+ XXXXX  
+        
+        
+++---012-0x0c-'6'-
+        
+ XXXXX  
+XX   XX 
+XX      
+XX      
+XXXXXX  
+XX   XX 
+XX   XX 
+XX   XX 
+ XXXXX  
+        
+        
+++---013-0x0d-'7'-
+        
+XXXXXXX 
+XX   XX 
+    XX  
+   XX   
+  XX    
+  XX    
+  XX    
+  XX    
+  XX    
+        
+        
+++---014-0x0e-'8'-
+        
+ XXXXX  
+XX   XX 
+XX   XX 
+XX   XX 
+ XXXXX  
+XX   XX 
+XX   XX 
+XX   XX 
+ XXXXX  
+        
+        
+++---015-0x0f-'9'-
+        
+ XXXXX  
+XX   XX 
+XX   XX 
+XX   XX 
+ XXXXXX 
+     XX 
+     XX 
+XX   XX 
+ XXXXX  
+        
+        
+++---016-0x10-'A'-
+        
+  XXX   
+ XX XX  
+XX   XX 
+XX   XX 
+XX   XX 
+XXXXXXX 
+XX   XX 
+XX   XX 
+XX   XX 
+        
+        
+++---017-0x11-'B'-
+        
+XXXXXX  
+ XX  XX 
+ XX  XX 
+ XX  XX 
+ XXXXX  
+ XX  XX 
+ XX  XX 
+ XX  XX 
+XXXXXX  
+        
+        
+++---018-0x12-'C'-
+        
+  XXXX  
+ XX  XX 
+XX      
+XX      
+XX      
+XX      
+XX      
+ XX  XX 
+  XXXX  
+        
+        
+++---019-0x13-'D'-
+        
+XXXXX   
+ XX XX  
+ XX  XX 
+ XX  XX 
+ XX  XX 
+ XX  XX 
+ XX  XX 
+ XX XX  
+XXXXX   
+        
+        
+++---020-0x14-'E'-
+        
+XXXXXXX 
+ XX  XX 
+ XX     
+ XX     
+ XXXXX  
+ XX     
+ XX     
+ XX  XX 
+XXXXXXX 
+        
+        
+++---021-0x15-'F'-
+        
+XXXXXXX 
+ XX  XX 
+ XX     
+ XX     
+ XXXXX  
+ XX     
+ XX     
+ XX     
+XXXX    
+        
+        

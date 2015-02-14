@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/gcrum/Desktop/Final_Project_v5/ise/throttleCopter_top.ncd
+OUTFILE=/home/gcrum/Desktop/Final_Project_v5/ise/throttleCopter_top.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5fg320
+WORKINGDIR=/home/gcrum/Desktop/Final_Project_v5/ise
+LICENSE=WebPack
+USER_INFO=0_0_575
